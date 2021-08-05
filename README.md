@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>Ner arcia...</b></p>
+<p> <b>Ner acia...</b></p>
 
 
 
