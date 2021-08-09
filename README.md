@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>Nesi</b></p>
+<p> <b>Nei</b></p>
 
 
 
