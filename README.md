@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>Nesrri</b></p>
+<p> <b>Nesri</b></p>
 
 
 
