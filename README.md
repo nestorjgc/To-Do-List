@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>eGca</b></p>
+<p> <b>eGc</b></p>
 
 
 
