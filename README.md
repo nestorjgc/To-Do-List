@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>NestrGarca</b></p>
+<p> <b>NesrGarca</b></p>
 
 
 
