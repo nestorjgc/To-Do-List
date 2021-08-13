@@ -16,7 +16,7 @@
 ![](imgs/Capture.PNG)
 
 <br>
-<p> <b>Neorggggaa</b></p>
+<p> <b>Nestor Garcia</b></p>
 
 
 
