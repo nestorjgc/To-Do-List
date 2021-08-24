@@ -2,25 +2,17 @@
 
 ## Introduction
 
-A full stack JavaScript application for teachers who want to manage course records.
+A front end JavaScript application for users who want to manage things to do.
 
 ## Technologies Used
-- React.js
-- Webpack 4
-- Bootstrap 4
-- PHP
+- Bootstrap
+- JavaScript
 - HTML5
 - CSS3
-- AWS EC2
 
 ## Live Demo: https://sgt.khoacao.com/
 
 ## Features
-- Teachers can view a list of recorded grades.
-- Teachers can view the average grade.
-- Teachers can add a grade to the table.
-- Teachers can delete a grade from the table.
-- Teachers can update a grade from the table.
 
 ## Preview
 
