@@ -24,8 +24,6 @@ A front end JavaScript application for users who want to manage things to do.
 ### Getting Started
 1. Clone the repository.  <br/>
 
-        git clone https://github.com/khoacao0601/student-grade-table.git
-        cd student-grade-table
         
 2. Install all dependencies with NPM. <br/>
 
