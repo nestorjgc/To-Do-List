@@ -1,22 +1,48 @@
-# To-Do List
-<h2>Program that reminds the users things to do.</h2>
-<p>This program is basically a reminder application. Users can interact with the application and modify/add/delete items.
-<br>
-  <br>
+# Student Grade Table (SGT)
 
-  <b>Skills used:</b>
-  <p></p>
-  <ul>
-  <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
+## Introduction
 
-<br>
+A full stack JavaScript application for teachers who want to manage course records.
 
-![](imgs/Capture.PNG)
+## Technologies Used
+- React.js
+- Webpack 4
+- Bootstrap 4
+- PHP
+- HTML5
+- CSS3
+- AWS EC2
 
-<br>
-<p> <b>Nestor Garcia</b></p>
+## Live Demo: https://sgt.khoacao.com/
 
+## Features
+- Teachers can view a list of recorded grades.
+- Teachers can view the average grade.
+- Teachers can add a grade to the table.
+- Teachers can delete a grade from the table.
+- Teachers can update a grade from the table.
 
+## Preview
 
+![Alt Text](https://github.com/khoacao0601/student-grade-table/blob/master/SGT.gif)
+
+## Development
+### System Requirements
+- NPM 6 or higher
+### Getting Started
+1. Clone the repository.  <br/>
+
+        git clone https://github.com/khoacao0601/student-grade-table.git
+        cd student-grade-table
+        
+2. Install all dependencies with NPM. <br/>
+
+        npm install
+        
+3. Import the example database to MySQL. <br/>
+
+        npm run db:import
+        
+4. Start the project. Once started you can view the application by opening http://localhost:3000 in your browser. <br/>
+
+        npm run dev
