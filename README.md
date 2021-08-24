@@ -10,7 +10,7 @@ A front end JavaScript application for users who want to manage things to do.
 - HTML5
 - CSS3
 
-## Live Demo: https://sgt.khoacao.com/
+## Live Demo: 
 
 ## Features
 
